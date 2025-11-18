@@ -95,8 +95,8 @@ npm start
 npm run build
 ```
 
-## 📌 Project link on Netlify :
+## 📌 Project link on Vercel :
 
-https://forkify-js-final-project.netlify.app/
+[Live Demo ](https://forkify-app-pi.vercel.app/)
 
 💡 This project was inspired by Jonas Schmedtmann’s “The Complete JavaScript Course”
